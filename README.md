@@ -13,12 +13,12 @@ Neat (NeuroEvolution Augmenting Topologies), Reinforcement Learning
 
 <h2>Technologies used in the project:</h2>
 
-Python3
-Pygame
-python-neat-module (NeuroEvolution Augmented Topologies)
+Python3 </br>
+Pygame </br>
+python-neat-module (NeuroEvolution Augmented Topologies)</br>
 
 <h2>Paper</h2>
 
 You may see the detailed paper down below and have a better understanding about genetic algorithms, artificial neural networks, NEAT algorithm and how it is applied to Flappy Bird.
 
-[Baran_Ozgenc_171101064_final_raporu_441.pdf](https://github.com/bozgenc/flappy-bird-ai/files/8798251/Baran_Ozgenc_171101064_final_raporu_441.pdf)
+[Flappy_Bird_AI_Paper_by_Baran_Ozgenc.pdf](https://github.com/bozgenc/flappy-bird-ai/files/8798251/Baran_Ozgenc_171101064_final_raporu_441.pdf)
