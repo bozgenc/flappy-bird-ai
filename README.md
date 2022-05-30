@@ -1,4 +1,4 @@
-# Flappy-Bird-Ai
+# Flappy-Bird-AI
 
 This project is developed as a BİL 441 course project in TOBB ETU. 
 The motivation behind the project is to implement Artificial Intelligence somehow to an existed Flappy Bird game.
